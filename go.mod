@@ -1,4 +1,4 @@
-module github.com/dexidp/dex
+module github.com/dexidp/dex@2.27.0
 
 go 1.19
 
